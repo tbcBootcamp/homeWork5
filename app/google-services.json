@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81497763590",
+    "project_id": "hw5registration",
+    "storage_bucket": "hw5registration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81497763590:android:2f0fbda49684f709643887",
+        "android_client_info": {
+          "package_name": "com.example.homework5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsyUofLZ9vsVaZEPJsgkjw5t6_YYNkT68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
